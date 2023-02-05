@@ -1,3 +1,10 @@
+
+## 💻 Projeto
+
+Está é uma página simples de treinos exclusivos. Neste projeto foi ensinado o conceito do Box-Model e do Flex-box.
+<br>
+<br>
+
 <p align="center">
   <img alt="projeto refaturado" src=".github/preview.jpg" width="100%">
 </p>
@@ -18,11 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <br>
 <br>
 
-## 💻 Projeto
 
-Está é uma página simples de treinos exclusivos. Neste projeto foi ensinado o conceito do Box-Model e do Flex-box.
-<br>
-<br>
 ## 🔖 Layout
 
 Para visualizar o projeto no figma, basta [clicar aqui](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1&t=KU7OkNK3dIY0fHNi-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
